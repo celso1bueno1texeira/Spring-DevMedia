@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2938e56b-ea25-44bd-a949-091c98898099" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/celso/devmedia/domain/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/celso/devmedia/domain/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/celso/devmedia/dao/MusicaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/celso/devmedia/dao/MusicaDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/celso/devmedia/dao/PlaylistDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/celso/devmedia/dao/PlaylistDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581692059588</updated>
-      <workItem from="1581692068327" duration="3945000" />
+      <workItem from="1581692068327" duration="11074000" />
     </task>
     <servers />
   </component>
@@ -74,9 +77,9 @@
       <screen x="1920" y="319" width="1366" height="738" />
     </state>
     <state x="2195" y="347" key="#Assign_Data_Sources/1920.319.1366.738/0.0.1920.1050@1920.319.1366.738" timestamp="1581696871763" />
-    <state x="2408" y="373" key="#com.intellij.ide.util.MemberChooser" timestamp="1581696833601">
+    <state x="2408" y="373" key="#com.intellij.ide.util.MemberChooser" timestamp="1581719116491">
       <screen x="1920" y="319" width="1366" height="738" />
     </state>
-    <state x="2408" y="373" key="#com.intellij.ide.util.MemberChooser/1920.319.1366.738/0.0.1920.1050@1920.319.1366.738" timestamp="1581696833601" />
+    <state x="2408" y="373" key="#com.intellij.ide.util.MemberChooser/1920.319.1366.738/0.0.1920.1050@1920.319.1366.738" timestamp="1581719116491" />
   </component>
 </project>
