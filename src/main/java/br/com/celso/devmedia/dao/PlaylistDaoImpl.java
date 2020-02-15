@@ -21,7 +21,7 @@ public class PlaylistDaoImpl implements PlaylistDao{
 
     @Override
     public List<Playlist> recuperar(){
-        return em.createQuery(qlString: "select p from Playlist p", Playlist.class).getResultList();
+        return em.createQuery("select p from Playlist p", Playlist.class).getResultList();
     }
 
     @Override
