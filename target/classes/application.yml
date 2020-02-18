@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/dbspotmusic?useSSL=false&createDatabaseIfNotExist=true
+    url: jdbc:mysql://localhost:3306/dbspotmusic2?useSSL=false&createDatabaseIfNotExist=true
     username: root
-    password: 123456
+    password: ""
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     properties:
